@@ -1,2 +1,10 @@
 # Day17-Quiz-Game
 This is a simple quiz game made in python. In which the user has to answer in simple true or false and they get points if the answer is correct. (this game is very basic but the challenging part is the usage of oop and multiple files)
+![q1](https://user-images.githubusercontent.com/86790253/229294507-3ebce1a0-68ab-4e76-90bd-a3d0d7ed6483.png)
+![q1-output](https://user-images.githubusercontent.com/86790253/229294509-ef346a44-9c4a-4126-b7b9-52bb81656af9.png)
+![q2](https://user-images.githubusercontent.com/86790253/229294511-fbe14ac0-9fab-47e6-9fa5-9b3698daa0cf.png)
+![q2-ans](https://user-images.githubusercontent.com/86790253/229294514-facafed1-56f9-4041-ae1d-9ddcf8221eb0.png)
+![q2-output](https://user-images.githubusercontent.com/86790253/229294515-0a2e021f-b000-4820-97a0-11df6a066fb3.png)
+![q3-wrong-ans](https://user-images.githubusercontent.com/86790253/229294517-c6a81d05-b61a-4f14-89d4-fea3832ae508.png)
+![q3-wrong-ans-output](https://user-images.githubusercontent.com/86790253/229294519-64fface8-308e-4158-9be5-2fec9e5356e2.png)
+![output-after-finishing-game](https://user-images.githubusercontent.com/86790253/229294525-22900b73-fbcb-4c8b-a988-a2a77d4890bc.png)
